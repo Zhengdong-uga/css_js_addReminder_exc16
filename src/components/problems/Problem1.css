@@ -1,0 +1,10 @@
+.problem1style {
+  min-height: 200px;
+  border: 2px solid blue;
+  background-color: darkred;
+  font-weight: bold;
+  color: #FFF;
+  display: grid;
+  place-items: center;
+  margin-bottom: 1rem;
+}

@@ -1,0 +1,7 @@
+.reminder {
+  font-weight: bold;
+}
+.reminder:before {
+  content: '✅';
+  margin-right: 5px;
+}
